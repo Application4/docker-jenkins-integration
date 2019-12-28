@@ -9,6 +9,6 @@
     <version>1.0-SNAPSHOT</version>
 
    <build>
-             <finalName>docker-jenkins-integration</finalName>
+             <finalName>docker-jenkins-integration-example</finalName>
          </build>
 </project>
