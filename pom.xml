@@ -8,5 +8,7 @@
     <artifactId>docker-test</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-
+   <build>
+             <finalName>docker-jenkins-integration</finalName>
+         </build>
 </project>
